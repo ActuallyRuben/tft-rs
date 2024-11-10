@@ -1,5 +1,9 @@
 [package]
 name = "tft-rs"
+description = "An interfacing library for several TFT LCD displays"
+authors = ["ActuallyRuben <ruben@actuallyruben.nl>"]
+repository = "https://github.com/ActuallyRuben/tft-rs"
+license = "MIT"
 version = "0.1.0"
 edition = "2021"
 
